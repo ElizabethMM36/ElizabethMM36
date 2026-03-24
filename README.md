@@ -34,14 +34,28 @@
 ### 🍽️ Crumps – Food Waste Reduction Platform  
 - React + Firebase based system  
 - Role-based system (Customer / Restaurant / Admin)  
-- Helps reduce food waste through discounted listings  
+- Helps reduce food waste through discounted listings
+- Beginner project
+-  https://datacrumps.web.app/ 
 
 ---
 
-### 💊 Hopeline (AI-based Risk Assessment App)  
-- Anonymous risk detection via quiz  
-- AI-based recommendations  
-- Focus on **social impact + mental health**
+### 💊 Kash an expense tracker app   
+- Automated SMS parsing so no need to manually add expense 
+- Analytics  
+- Notifications and alerts it the budget is exceeding
+- https://github.com/ElizabethMM36/kash.git
+
+---
+---
+
+### Placement assit 
+- One stop platform connecting students and placement coordinators .It is system for colleges to manage placements more efficiently
+- The placement coordinator can post jobs ,gets a filtered and sorted list of eligible candidates that match recruiters needs and can schedule interviws without anu conflict
+- students have build in resume enhancer to bypass ATS and receive tailored resumes
+- view student profiles
+- blog post
+- <a href="https://github.com/ADVAITH-S-DEV/Placement_assist_europa.git" target="https://github.com/ADVAITH-S-DEV/Placement_assist_europa.git">
 
 ---
 
