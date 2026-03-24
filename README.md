@@ -55,8 +55,7 @@
 - students have build in resume enhancer to bypass ATS and receive tailored resumes
 - view student profiles
 - blog post
-- <a href="https://github.com/ADVAITH-S-DEV/Placement_assist_europa.git" target="https://github.com/ADVAITH-S-DEV/Placement_assist_europa.git">
-
+- https://github.com/ADVAITH-S-DEV/Placement_assist_europa.git
 ---
 
 ## 🛠️ Tech Stack
