@@ -1,21 +1,107 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Mathew</h1>
-<h3 align="center">I am a pre-final year B.Tech Information Technology student at the Cochin University of Science and Technology. I am currently focused on building my skills in Artificial Intelligence and Machine Learning through project-based learning. In addition, I have a strong interest in expanding my knowledge of cybersecurity and networking. I am continuously working to strengthen my understanding in these areas alongside my core studies. Looking ahead, I aspire to develop expertise in both cybersecurity and AI/ML, and contribute to innovative and secure technology solutions.</h3>
 
-- 🔭 I’m currently working on [Second hand Ecommerce platform with increased customer realiabilty](https://github.com/ElizabethMM36/Ecom.git)
-
-- 🌱 I’m currently learning **AL/ML, computer vision and cyber security**
-
-- 💬 Ask me about **react , Node JS, Python**
-
-- 📫 How to reach me **elizabethmathew10d@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elizabeth mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabeth mathew" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lizzymt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lizzymt" height="30" width="40" /></a>
+<p align="center">
+🚀 B.Tech IT Student | AI/ML Enthusiast | Cybersecurity Learner  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+🎓 Pre-final year student at Cochin University of Science and Technology (CUSAT)  
+💡 Passionate about building intelligent and secure systems  
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizabethmm36&show_icons=true&locale=en&layout=compact" alt="elizabethmm36" /></p>
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **Second-Hand E-Commerce Platform (AI + Trust System)**
+- 🌱 Learning **AI/ML, Computer Vision & Cybersecurity**
+- 💬 Ask me about **React, Node.js, Python**
+- 🎯 Goal: Build **secure + intelligent applications combining AI & cybersecurity**
+- 📫 Reach me at: **elizabethmathew10d@gmail.com**
+
+---
+
+## 🌟 Featured Projects
+> ✨ Highlighting projects I’ve built and collaborated on
+
+### 🛒 Second-Hand E-Commerce Platform  
+🔗 https://github.com/ElizabethMM36/Ecom  
+- AI-based product verification system  
+- Flutter + Node.js + MongoDB  
+- Focus on **trust & fraud detection**
+
+---
+
+### 🍽️ Crumps – Food Waste Reduction Platform  
+- React + Firebase based system  
+- Role-based system (Customer / Restaurant / Admin)  
+- Helps reduce food waste through discounted listings  
+
+---
+
+### 💊 Hopeline (AI-based Risk Assessment App)  
+- Anonymous risk detection via quiz  
+- AI-based recommendations  
+- Focus on **social impact + mental health**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,dart" />
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,firebase,tailwind,nextjs" />
+</p>
+
+### 🧠 AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://cdn.worldvectorlogo.com/logos/opencv-1.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="40"/>
+</p>
+
+### 🗄️ Databases & Others
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,figma,postman" />
+</p>
+
+---
+
+## 🤝 Collaboration & Contributions
+- 👯 Open to collaborating on **AI/ML, Full Stack & Cybersecurity projects**
+- 🌍 Interested in **real-world impactful applications**
+- 💡 Love working in teams and building scalable solutions
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/elizabeth mathew" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.leetcode.com/lizzymt" target="blank">
+<img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" height="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=elizabethmm36&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elizabethmm36&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Fun Touch
+<p align="center">
+💻 "Building the future with AI + Security" 🔐  
+</p>
