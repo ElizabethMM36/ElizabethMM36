@@ -21,12 +21,14 @@
 ---
 
 ## 🌟 Featured Projects
-> ✨ Highlighting projects I’ve built and collaborated on
+> ✨ Highlighting some of the  projects I’ve built and collaborated on
 
 ### 🛒 Second-Hand E-Commerce Platform  
 🔗 https://github.com/ElizabethMM36/Ecom  
 - AI-based product verification system  
-- Flutter + Node.js + MongoDB  
+- Flutter + Node.js + MongoDB
+- stripe payment gateway + escrow
+- admin panel
 - Focus on **trust & fraud detection**
 
 ---
@@ -49,7 +51,7 @@
 ---
 ---
 
-### Placement assit 
+### Placement assist 
 - One stop platform connecting students and placement coordinators .It is system for colleges to manage placements more efficiently
 - The placement coordinator can post jobs ,gets a filtered and sorted list of eligible candidates that match recruiters needs and can schedule interviws without anu conflict
 - students have build in resume enhancer to bypass ATS and receive tailored resumes
