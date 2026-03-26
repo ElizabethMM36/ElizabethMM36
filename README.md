@@ -26,7 +26,7 @@ Pre-final year student at Cochin University of Science and Technology (CUSAT)
 ###  Second-Hand E-Commerce Platform  
  https://github.com/ElizabethMM36/Ecom  
 - AI-based product verification system  
-- Flutter + Node.js + MongoDB
+- Flutter + Node.js + MongoDB + FastAPI + google ML kit +TLite 
 - stripe payment gateway + escrow
 - admin panel
 - Focus on **trust & fraud detection**
