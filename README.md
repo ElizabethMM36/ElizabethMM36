@@ -116,7 +116,3 @@ Pre-final year student at Cochin University of Science and Technology (CUSAT)
 
 ---
 
-## ✨ Fun Touch
-<p align="center">
-💻 "Building the future with AI + Security" 🔐  
-</p>
